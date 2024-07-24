@@ -1,6 +1,6 @@
 ## AI Music Metaverse Project WAVE
 
-This repository is to save AI generated MIDI files to use in music metaverse WAVE project.
+This repository is for AI generated MIDI files to use in music metaverse WAVE project.
 All the data is visualized and editable by gamification.
 
 
